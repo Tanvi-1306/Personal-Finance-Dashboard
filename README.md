@@ -16,8 +16,7 @@
   4. Custom tooltips show monthly trend details when hovering over visuals like charts and KPI cards.
 
   2: 
-![image alt] (https://github.com/Tanvi-1306/Personal-Finance-Dashboard/blob/831e5e82927fa055f1d03841e787cda836f3dccb/Screenshot%20(106).png)
-
+ ![image alt](https://github.com/Tanvi-1306/Personal-Finance-Dashboard/blob/831e5e82927fa055f1d03841e787cda836f3dccb/Screenshot%20(106).png)
   1. Line chart of House Rent over time.
 
   2. Tooltip shows month-on-month changes and percentage increase.
