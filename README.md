@@ -29,12 +29,12 @@
 
    2. Tooltip reveals monthly investment amount and comparison with previous month.
 
+  4:
+  ![image alt](https://github.com/Tanvi-1306/Personal-Finance-Dashboard/blob/d2a4f9f5300fe2b8d63fb3f801432fb51c21819c/Screenshot%20(108).png)
 
+   1.  Displays the cumulative net worth trend across the year.
 
-
-  
-  
- 
+   2. Tooltip shows detailed figures: cumulative savings, income, and major contributors to net worth.
 
 📊 Key Features
 1. Dynamic KPIs for Income, Expenses, Savings %, and Net Worth
@@ -50,3 +50,20 @@
 6. Detailed Table View of all transactions by type and period
 
 7. Drill-through capabilities for deeper data insights
+
+🧠 Advanced Features:
+
+📌 Custom Tooltips: Hover on visuals to get contextual insights without opening a new page.
+
+⚙️ Power Query for cleaning and transforming raw data.
+
+🧮 DAX for calculated metrics like savings %, net worth, and monthly trends.
+
+🛠️ Tools Used:
+
+Power BI
+
+Microsoft Excel
+
+Power Query
+
