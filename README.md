@@ -5,6 +5,17 @@
  
  📊 Dashboard Features:
   1: Overview Dashboard
+  ![image alt](https://github.com/Tanvi-1306/Personal-Finance-Dashboard/blob/10fd135f44cf70fa4106e10d7b68a42836145ff2/Screenshot%20(105).png)
+ 
+  1. Summary cards for Total Income, Expenses, Savings %, and Net Worth.
+
+  2. Slicers for year-wise filtering.
+
+  3. Category breakdown for spending vs saving.
+
+  4. Custom tooltips show monthly trend details when hovering over visuals like charts and KPI cards.
+
+
   
   
  
