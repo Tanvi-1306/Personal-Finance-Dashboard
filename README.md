@@ -17,9 +17,19 @@
 
   2: 
  ![image alt](https://github.com/Tanvi-1306/Personal-Finance-Dashboard/blob/831e5e82927fa055f1d03841e787cda836f3dccb/Screenshot%20(106).png)
+ 
   1. Line chart of House Rent over time.
 
   2. Tooltip shows month-on-month changes and percentage increase.
+
+  3:
+  ![image alt](https://github.com/Tanvi-1306/Personal-Finance-Dashboard/blob/b466364e3b956fc33d29168b865dd02f329639db/Screenshot%20(107).png)
+  
+   1.  Visualizes how mutual fund investments grew throughout the year.
+
+   2. Tooltip reveals monthly investment amount and comparison with previous month.
+
+
 
 
   
