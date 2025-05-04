@@ -2,8 +2,10 @@
 🔸 Overview:
  This Power BI dashboard provides insights into personal finance by tracking income, expenses, savings, and net worth over time. It features interactive visuals, year filters, and custom tooltips that offer deeper 
  drilldowns without overwhelming the main view.
+ 
  📊 Dashboard Features:
- 1: Overview Dashboard
+  1: Overview Dashboard
+  
  
 
 📊 Key Features
